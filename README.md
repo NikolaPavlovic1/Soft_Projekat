@@ -1,4 +1,4 @@
-# Soft_Projekat
+# Soft Projekat
 
 Tekst zadatka:
 
